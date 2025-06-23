@@ -54,3 +54,7 @@ Phần mềm
 2. Thư mục "dart của app" là code cho app điện thoại, có thể dùng VS Code để mở
 3. Bản vẽ PCB ở trong "PCB_project"
 
+----------------------------------------------------------------------------------------------
+✍️ Tác giả
+Lê Minh Quang - 21139045
+Hà Văn Trung  - 21139065
